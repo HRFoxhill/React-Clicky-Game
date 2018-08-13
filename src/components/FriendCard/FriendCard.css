@@ -10,9 +10,10 @@
   #61c2e4 350px, #61c2e4 400px);
   border-radius: 2px;
   height: 325px;
-  margin: 1rem;
+  margin: 5px;
+  width: inherit;
+  align-content: center;
   position: relative;
-  width: 325px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
   text-align: left;
 }

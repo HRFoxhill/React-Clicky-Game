@@ -1,11 +1,11 @@
 .wrapper {
   padding-top: 50px;
-  background: goldenrod;
+  background-image: url("planetExpressship.jpg");
   height: 100%;
   display: flex;
   flex-flow: row wrap;
   padding: 20px;
-  justify-content: space-around;
+  justify-content: inherit;
   align-content: flex-start;
   overflow: auto;
 }

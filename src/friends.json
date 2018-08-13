@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Rick Sanchez",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/%D0%90%D1%80%D1%82_%D0%BD%D0%B0_%D1%82%D0%B5%D0%BC%D1%83_%D0%A0%D1%96%D0%BA%D0%B0.jpg",
-    "occupation": "Mad Scientist",
-    "location": "Under-Garage Lab"
+    "name": "Philip J Fry",
+    "image": "https://theinfosphere.org/images/e/e6/Captain_Yesterday.jpg",
+    "occupation": "Delivery Boy",
+    "location": "Planet Express Ship"
   },
   {
     "id": 2,
@@ -15,72 +15,72 @@
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "Leela",
+    "image": "http://pngimg.com/uploads/futurama/futurama_PNG68.png",
+    "occupation": "Pilot/Captain",
+    "location": "Planet Express Ship"
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "name": "Lur",
+    "image": "https://vignette.wikia.nocookie.net/en.futurama/images/c/c5/Lurr.png/revision/latest?cb=20130329124434",
+    "occupation": "Ruler",
+    "location": "Omacron Persii VI"
   },
   {
     "id": 5,
-    "name": "Bean",
-    "image": "https://news.ievenn.com/wp-content/uploads/2018/08/tv_disenchantment1a-1014x553.jpg",
-    "occupation": "A Drunkard Princess",
-    "location": "Dreamland"
+    "name": "Bender",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/thumb/b/b2/Outfit_Bender_Bee.png/242px-Outfit_Bender_Bee.png?version=fcd1ea5a5861abf6db19ed5806fd4d85",
+    "occupation": "Bending Robot",
+    "location": "Planet Express"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "name": "Zap Brannigan",
+    "image": "http://www.syfy.com/sites/syfy/files/styles/1200x1200/public/wire/legacy/ZappBrannigan.png?itok=nWpyINWH&timestamp=1497663261",
+    "occupation": "Douche",
+    "location": "Space"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "name": "Hermes",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/thumb/9/91/Outfit_Mecha-Hermes.png/283px-Outfit_Mecha-Hermes.png?version=591622474ea4ce9449cb98649616b1d5",
+    "occupation": "Beurocrat",
+    "location": "Planet Express"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "name": "Kif Kroker",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/thumb/6/66/CowboyKif.png/133px-CowboyKif.png?version=315dbddd3447f22593290f62695dbb2d",
+    "occupation": "Lieutenant",
+    "location": "Space"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "name": "The Professor",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/thumb/3/33/Great_Wizard_Greyfarn.png/171px-Great_Wizard_Greyfarn.png?version=7caf3070e19ba61072269d72c82ebbef",
+    "occupation": "Scientist",
+    "location": "Planet Express"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "name": "Robot Devil",
+    "image": "http://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/thumb/e/ea/RobotDevil.jpg/468px-RobotDevil.jpg",
+    "occupation": "Trickster",
+    "location": "Hell"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
+    "name": "Calculon",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/thumb/6/6d/Sir_Knight_Calculon.png/273px-Sir_Knight_Calculon.png?version=fbb8dd29437c5bda4afb0a43b41b0930",
+    "occupation": "Actor",
     "location": "Earth"
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "Lord Nibbler",
+    "image": "https://d1u5p3l4wpay3k.cloudfront.net/futuramaworldsoftomorrow_gamepedia_en/1/1f/Nibbler.png?version=1ed8df4132c812f3064178f38b5eeb79",
+    "occupation": "Galactic Protector",
+    "location": "Dog Bed, Planet Express"
   }
 ]

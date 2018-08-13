@@ -5,15 +5,15 @@ nav {
     margin-bottom: 50px;
     background-color: rgb(56, 56, 56);
     height: auto;
-    font-family: 'Bungee', cursive;
+    font-family: 'Playball',sans-serif;
   }
   
   a {
-    color: #fed420;
+    color: turquoise;
   }
   
   a:hover {
-    color: #fed420;
+    color: turquoise;
     text-decoration: none;
   }
   
